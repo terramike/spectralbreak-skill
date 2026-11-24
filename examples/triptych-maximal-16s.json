@@ -1,0 +1,1 @@
+{"cyclePer":1.6,"detail":16,"durations":{"hue":16,"overlay":16,"portal":16},"format":"mp4","fps":25,"glow":100,"loop":16,"modes":["portal","overlay","hue"],"pattern":"cycle","purity":100,"spectralbreak":1,"spread":300,"stops":["#ff0000","#ff8000","#ffff00","#80ff00","#00ff00","#00ff80","#00ffff","#0080ff","#0000ff","#8000ff","#ff00ff","#ff0080"],"tint":100}
