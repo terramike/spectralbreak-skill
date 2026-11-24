@@ -42,6 +42,19 @@ the site, both downloads verified frame-by-frame:
 | Portal classic | Portal · Cycle · 30 s · 20 fps · MP4 | 1600×1600, 600 frames, hash `be50c628` |
 | Triptych maximal | Portal+Overlay+Hue · Cycle 1.6 s · 16 s · 25 fps | 4800×1600, 400 frames, hash `22ec43ab` |
 
+## Companion: mint it as an NFT (optional)
+
+Made a render you love? **`companions/xrpl-mint/`** is a companion skill that bridges
+to the [xrpl-muse-skill](https://github.com/terramike/xrpl-muse-skill): if a user has **both** skills
+installed, they can mint the render as a one-of-one NFT on the XRP Ledger, straight
+from chat — with the settings hash and the reproducing link baked into the token's
+metadata as provenance. The companion adds no commands and touches no keys: every
+signing step stays inside the XRPL skill's propose → approve → sign ceremony. If the
+XRPL skill isn't installed, the companion offers its easy install and stops.
+(Mint copy is a size-disciplined GIF today — the XRPL skill's artwork checker is
+image-only; the MP4 remains the watch/share copy. Plain-English explainers included
+for every technical term.)
+
 ## Credits
 
 - SpectralBreak is built by **ConsumerBreak** (Breakman) for the Spectral Art Foundation.
